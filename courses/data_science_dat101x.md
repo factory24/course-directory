@@ -17,3 +17,5 @@ Participants of this course should expect to learn the following key lessons:
 * Applied data science
 
 Once completed, participants will have the opportunity to put into practise the lessons of the course by participating in Afrolynk projects. 
+
+### Register **[Here]()**

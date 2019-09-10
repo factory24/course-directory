@@ -15,3 +15,5 @@ By the end of this course, pariticipants will learn:
 * How IPNS differs from DNS
 
 The interactive tutoriasl, code tests and test solutions are designed by [ProtoSchool](https://github.com/ProtoSchool) developers and contributors to introduce learners to decentralized web concepted, protocols and tools.
+
+### Register **[Here]()**
