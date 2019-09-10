@@ -18,4 +18,4 @@ Participants of this course should expect to learn the following key lessons:
 
 Once completed, participants will have the opportunity to put into practise the lessons of the course by participating in Afrolynk projects. 
 
-### Register **[Here]()**
+### Register **[Here](https://factory24.org/course/data-science-ms-dat101x/)**

@@ -18,4 +18,4 @@ Entrepreneurs who take this course will learn how to take due diligence in vario
 
 The tech entrepreneurship culture has penetrated deep across the continent as evinced by the increased 442 active incubators, accelerators, and co-working spaces in Africa compared to 314  in 2016. These growing tech communities across Africa will continue to power the continent’s digital revolution whilst facilitating systemic societal and cultural changes.
 
-### Register **[Here]()**
+### Register **[Here](https://factory24.org/course/startup-due-diligence/)**
