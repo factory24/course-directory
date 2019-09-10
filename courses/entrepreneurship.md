@@ -16,3 +16,5 @@ This entrepreneurship course is designed to be taken over a 12-week period cover
 * How to finance your business
 
 Each expert-led lesson includes everything you need to hone your skills: video, audio, and written components to suit varying bandwidths; discussion guides to spark conversations, and quizzes to test your knowledge.
+
+### Register **[Here](https://factory24.org/course/entrepreneurship/)**

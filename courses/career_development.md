@@ -18,3 +18,5 @@ Participants of this course should expect to learn the following key lessons:
 * On-the-job professional growth strategies
 
 This training program is knowledge enabling and equipping instrument to build and promote African-owned innovative approaches for skills development and decent employment on the continent.
+
+### Register **[Here](https://factory24.org/course/career-development/)**
