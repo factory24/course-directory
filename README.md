@@ -3,7 +3,7 @@ Factory24 currently has more than 400 participants signed up across various cour
 
 In this repository we'll cover the following: 
 
-* Complete directory of courses on Factory24 
+* Complete directory of [courses](https://github.com/factory24/course-directory/tree/master/courses) on Factory24 
 * Factory24 Partner Courses
 * How to submit new courses
 * How to register as a course facilitator 
