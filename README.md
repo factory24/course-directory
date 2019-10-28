@@ -24,7 +24,7 @@ To submit a new course simply open a new issue on this repository with a breakdo
 * Name of the Course
 * Objectives of the Course
 * Key technology stack
-* Curiculmn Provider (if self, also indicate)
+* Curriculum Provider (if self, also indicate)
 * Duration of the course
 * Internship opportunities
 
