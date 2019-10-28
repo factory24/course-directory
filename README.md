@@ -47,7 +47,7 @@ As a student or facilitator you will likely run into issues regarding some cours
 
 * Open a new issue on the repository with the title of the course and a problem or improvement suggestion.
 * Contact the course facilitator on [Factory24](https://factory24.org)
-* Send an email to **factory24.org** with the subject title as course name
+* Send an email to **factory24@protonmail.com** with the subject title as course name
 
 Our facilitators will respond to any and all the feedback that will be shared regarding each issue raised. 
 
