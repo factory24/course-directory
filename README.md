@@ -51,5 +51,9 @@ As a student or facilitator you will likely run into issues regarding some cours
 
 Our facilitators will respond to any and all the feedback that will be shared regarding each issue raised. 
 
+## Certification Options
 
+As a facilitator, you have the option to design and offer courses with a certification option once students have completed one or more of your courses. The certification option is used by Factory24 to offer students who have completed each course an internship in a project based on the technology they've studied. These are projects that have been internally sourced and work with Factory24 to offer students an environment to get put to practice lessons they've learned. 
+
+For students this certification doesn't just guarantee an internship with a Factory24 partner
 
