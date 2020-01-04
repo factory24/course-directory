@@ -16,4 +16,4 @@ By completing this course, You will earn a digital badge by IBM. IBM credentials
 
 Once completed, participants will have the opportunity to put into practise the lessons of the course by participating in Afrolynk projects. 
 
-### Register **[Here](https://factory24.org/course/data-science-ms-dat101x/)**
+### Register **[Here](https://factory24.org/course/ibm-digital-nation-africa/)**
