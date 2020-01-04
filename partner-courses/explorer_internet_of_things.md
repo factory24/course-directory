@@ -8,9 +8,9 @@ AI is now in our living rooms, cars, and often our pockets. In this course you w
 
 Participants of this course should expect to learn the following key lessons:
 
-* What is Artificial Intelligence (AI)
-* Why AI is important
-* How AI can be applied across various industries
+* What is Internet of Things (IoT)
+* Why IoT is important
+* How IoT can be applied across various industries
 
 By completing this course, You will earn a digital badge by IBM. IBM credentials are recognized, respected and valued globally in the IT industry. You may easily and quickly share verified proof of your achievement wherever and whenever you choose.
 
