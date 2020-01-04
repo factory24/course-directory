@@ -1,6 +1,6 @@
 # Explorer – Artificial Intelligence
 
-This course is part of the Microsoft Professional Program Certificate in Data Science. you would Learn what it takes to become a data scientist.
+This course is part of the IBM Digital Nation Africa program to explore Artificial Intelligence.
 
 This is the first stop in the Data Science curriculum from Microsoft. It will help you get started with the program, plan your learning schedule, and connect with fellow students and teaching assistants. Along the way, you’ll get an introduction to working with and exploring data using a variety of visualization, analytical, and statistical techniques.
 
