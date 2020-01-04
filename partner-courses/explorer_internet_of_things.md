@@ -2,7 +2,7 @@
 
 This course is part of the IBM Digital Nation Africa program to explore Artificial Intelligence.
 
-AI is now in our living rooms, cars, and often our pockets. In this course you will be introduced to AI, how it works and what makes a cognitive system different from the rest. You will then go through examples of how AI is being used in the fashion, medical and music industry.
+
 
 ## Course Objectives
 
