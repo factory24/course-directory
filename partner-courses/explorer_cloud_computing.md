@@ -2,7 +2,7 @@
 
 This course is part of the IBM Digital Nation Africa program to explore Artificial Intelligence.
 
-
+Cloud can empower you to embrace change and propel progress. In this course you will learn about what Cloud is, and how it can benefit businesses regardless of the industry they occupy. You will then go through examples of different companies that are using Cloud services to market and expand their solution.
 
 ## Course Objectives
 
