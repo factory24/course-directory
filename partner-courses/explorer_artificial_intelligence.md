@@ -8,13 +8,9 @@ AI is now in our living rooms, cars, and often our pockets. In this course you w
 
 Participants of this course should expect to learn the following key lessons:
 
-* Data Analysis Fundamentals incl.
-    - Analyzing and visualising data
-    - Grouping and summarizing data
-* Analyzing and visualizing data with Power BI
-* Analyzing and visualizing data with Excel
-* Ethics and law in Data and Analytics
-* Applied data science
+* What is Artificial Intelligence (AI)
+* Why AI is important
+* How AI can be applied across various industries
 
 Once completed, participants will have the opportunity to put into practise the lessons of the course by participating in Afrolynk projects. 
 
