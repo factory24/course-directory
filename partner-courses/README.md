@@ -8,6 +8,9 @@ Partner courses on Factory24 are courses we offer to our students courtesy of ou
 
 We are always accepting new partners to the Factory24 platform and if you have similar courses that we can offer to our students, follow the submission guide hightlighted in our **# How To Submit New Courses** section, and if you experience any challenges or issues with any of the partner courses we offer on the platform follow the **# Issue Submission** guide above. 
 
+For students this certification doesn't just guarantee an internship with a Factory24 partner, it will also increase employability probability once internship is completed under our high quality mentors and high-performance companies. For in-house courses, certifications will cost $49 and for partner courses, the prices will vary course-to-course. 
+
+
 ## Become A Course Facilitator
 
 Factory24 course facilitators will have several tasks in their role including:
