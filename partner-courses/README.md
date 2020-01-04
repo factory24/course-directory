@@ -20,7 +20,7 @@ Factory24 course facilitators will have several tasks in their role including:
 * optimize how we offer current and future courses eg through use case studies, 
 * source course projects for internship placements etc. 
 
-To apply as a course facilitator we consider `your years of expericence in your field of application`, `how manage hours a week you can commit to the role`, `your facilitation style` and `your overall vision for the course(s) you'll be managing`. We currently work with a wide range of facilitators covering over 5 difference technology stacks. To get started with a role send an email to **factory24@protonmail.com** and you'll be advised on next steps.
+
 
 ## Raise Issues Regarding Specific Courses
 
