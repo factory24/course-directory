@@ -19,32 +19,3 @@ As a student or facilitator you will likely run into issues regarding some cours
 * Send an email to **factory24@protonmail.com** with the subject title as course name
 
 Our facilitators will respond to any and all the feedback that will be shared regarding each issue raised. 
-
-## Become A Course Facilitator
-
-Factory24 course facilitators will have several tasks in their role including:
-
-* managing all the various courses they sign-up to facilitate, 
-* address student concerns about the course, 
-* optimize how we offer current and future courses eg through use case studies, 
-* source course projects for internship placements etc. 
-
-
-
-## Raise Issues Regarding Specific Courses
-
-
-
-## Certification Options
-
-As a facilitator, you have the option to design and offer courses with a certification option once students have completed one or more of your courses. The certification option is used by Factory24 to offer students who have completed each course an internship in a project based on the technology they've studied. These are projects that have been internally sourced and work with Factory24 to offer students an environment to get put to practice lessons they've learned. 
-
-
-## Factory24 Partner Courses
-
-
-
-
-
-
-
