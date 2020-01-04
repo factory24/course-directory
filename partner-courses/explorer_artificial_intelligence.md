@@ -1,4 +1,4 @@
-# Data Science – MS DAT101x
+# Explorer – Artificial Intelligence
 
 This course is part of the Microsoft Professional Program Certificate in Data Science. you would Learn what it takes to become a data scientist.
 
