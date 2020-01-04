@@ -10,6 +10,7 @@ We are always accepting new partners to the Factory24 platform and if you have s
 
 For students this certification doesn't just guarantee an internship with a Factory24 partner, it will also increase employability probability once internship is completed under our high quality mentors and high-performance companies. For in-house courses, certifications will cost $49 and for partner courses, the prices will vary course-to-course. 
 
+To apply as a course facilitator we consider `your years of expericence in your field of application`, `how manage hours a week you can commit to the role`, `your facilitation style` and `your overall vision for the course(s) you'll be managing`. We currently work with a wide range of facilitators covering over 5 difference technology stacks. To get started with a role send an email to **factory24@protonmail.com** and you'll be advised on next steps.
 
 ## Become A Course Facilitator
 
