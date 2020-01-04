@@ -1,4 +1,4 @@
-# Explorer – 
+# Explorer – Cloud Computing
 
 This course is part of the IBM Digital Nation Africa program to explore Artificial Intelligence.
 
