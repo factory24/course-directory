@@ -2,7 +2,7 @@
 
 This course is part of the IBM Digital Nation Africa program to explore Artificial Intelligence.
 
-
+As almost everything from cars to crops to conveyor belts becomes connected, IoT is changing the way businesses operate. In this course you will learn about how IoT works and gives us access to data from millions of devices. You will then go through examples of how IoT is being used across various industries to come up with better and more effective solutions.
 
 ## Course Objectives
 
