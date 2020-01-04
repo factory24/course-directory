@@ -4,7 +4,9 @@
 [![](https://img.shields.io/badge/project-Factory24-maroon.svg?style=flat-square)](http://factory24.org/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/afrolynk?label=Follow&style=social)
 
+Partner courses on Factory24 are courses we offer to our students courtesy of our partners. Currently we offer various course from partners like Microsoft, IBM, and other independent educators. These courses are also facilitated by expert trainers who interact one on one with students in the duration of their study. 
 
+We are always accepting new partners to the Factory24 platform and if you have similar courses that we can offer to our students, follow the submission guide hightlighted in our **# How To Submit New Courses** section, and if you experience any challenges or issues with any of the partner courses we offer on the platform follow the **# Issue Submission** guide above. 
 
 ## Become A Course Facilitator
 
@@ -31,7 +33,6 @@ Our facilitators will respond to any and all the feedback that will be shared re
 
 As a facilitator, you have the option to design and offer courses with a certification option once students have completed one or more of your courses. The certification option is used by Factory24 to offer students who have completed each course an internship in a project based on the technology they've studied. These are projects that have been internally sourced and work with Factory24 to offer students an environment to get put to practice lessons they've learned. 
 
-For students this certification doesn't just guarantee an internship with a Factory24 partner, it will also increase employability probability once internship is completed under our high quality mentors and high-performance companies. For in-house courses, certifications will cost $49 and for partner courses, the prices will vary course-to-course. 
 
 ## Factory24 Partner Courses
 
