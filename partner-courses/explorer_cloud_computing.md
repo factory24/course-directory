@@ -8,9 +8,9 @@ Cloud can empower you to embrace change and propel progress. In this course you 
 
 Participants of this course should expect to learn the following key lessons:
 
-* What is Internet of Things (IoT)
-* Why IoT is important
-* How IoT can be applied across various industries
+* What is Cloud Computing
+* Why Cloud Computing is important
+* How Cloud Computing can be applied across various industries
 
 By completing this course, You will earn a digital badge by IBM. IBM credentials are recognized, respected and valued globally in the IT industry. You may easily and quickly share verified proof of your achievement wherever and whenever you choose.
 
