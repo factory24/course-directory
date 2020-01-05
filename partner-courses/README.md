@@ -10,7 +10,7 @@ For students a Microsoft or IBM certification doesn't just guarantee an internsh
 
 To join the Factory24 as a partner course facilitator we consider `your years of expericence in your field of application`, `how manage hours a week you can commit to the role`, `your facilitation style` and `your overall vision for the course(s) you'll be managing`. We currently work with a wide range of facilitators covering over 5 difference technology stacks. To get started with a role send an email to **factory24@protonmail.com** for a guide on the next steps. 
 
-We welcome all the feedback that will improve how we offer courses, the courses we offer and the potential impact of each course. Feedback can be submitted through `new issues` or `email`. To provide feedback on any issues that might arise in the duration of your study we suggest several ways to share your feedback. 
+We welcome all the feedback that will improve how we offer courses, the courses we offer and the potential impact of each course. Feedback can be submitted through `new issues` or `email`
 
 * Open a new issue on the repository with the title of the course and a problem or improvement suggestion.
 * Contact the course facilitator on [Factory24](https://factory24.org)
