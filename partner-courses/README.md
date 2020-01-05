@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/project-Factory24-maroon.svg?style=flat-square)](http://factory24.org/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/afrolynk?label=Follow&style=social)
 
-Through our partners like Microsoft, IBM, and other independent educators, we offer our students courses that are facilitated by expert trainers who interact one on one with students in the duration of their study. 
+Through our partners like Microsoft, IBM, and other independent educators, we offer our students various partner courses that are facilitated by expert trainers who interact one on one with students in the duration of their study. 
 
 Partner courses on Factory24 are courses we offer to our students courtesy of our partners. Currently we offer various course from partners like Microsoft, IBM, and other independent educators. These courses are also facilitated by expert trainers who interact one on one with students in the duration of their study. 
 
