@@ -8,6 +8,6 @@ Through our partners like Microsoft, IBM, and other independent educators, we of
 
 For students a Microsoft or IBM certification doesn't just guarantee an internship with a Factory24 partner, it will also increase employability probability once internship is completed under our high quality mentors and high-performance companies. 
 
-To join the Factory24 as a partner course facilitator we consider `your years of expericence in your field of application`, `how manage hours a week you can commit to the role` and `your facilitation style`. We currently work with a wide range of facilitators covering difference technology stacks. To get started with a role send an email to **factory24@protonmail.com** for a guide on the next steps. 
+To join the Factory24 as a partner course facilitator we consider `your years of expericence in your field of application`, `how manage hours a week you can commit to the role` and `your facilitation style`. We currently work with a wide range of facilitators covering various difference technology stacks. To get started with a role send an email to **factory24@protonmail.com** for a guide on the next steps. 
 
 We welcome all the feedback that will improve how we offer courses, the courses we offer and the potential impact of each course. Feedback can be submitted through `new issues` or `email`. Our facilitators will respond to any and all the feedback that will be shared regarding each issue raised. 
