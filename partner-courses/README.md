@@ -12,8 +12,4 @@ To join the Factory24 as a partner course facilitator we consider `your years of
 
 We welcome all the feedback that will improve how we offer courses, the courses we offer and the potential impact of each course. Feedback can be submitted through `new issues` or `email`
 
-* Open a new issue on the repository with the title of the course and a problem or improvement suggestion.
-* Contact the course facilitator on [Factory24](https://factory24.org)
-* Send an email to **factory24@protonmail.com** with the subject title as course name
-
 Our facilitators will respond to any and all the feedback that will be shared regarding each issue raised. 
